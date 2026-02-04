@@ -1,82 +1,91 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=120&section=header&text=Tarik%20Velić&fontSize=36&fontColor=fff&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=100&section=header&text=Tarik%20Velić&fontSize=32&fontColor=fff&fontAlignY=38"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+React+Native;Building+scalable+web+%26+mobile+apps" alt="Typing SVG" /></a>
+**Full-Stack Developer** from Sarajevo, Bosnia & Herzegovina 🇧🇦
+<br/>
+Building scalable web & mobile applications
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://tarik-cv.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/velictarik)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tarikvelic23@gmail.com)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tarik-cv.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/velictarik)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarikvelic23@gmail.com)
 
 </div>
 
----
+<br/>
 
-### 👨‍💻 About
-
-```ts
-const tarik = {
-  location: "Sarajevo, BiH 🇧🇦",
-  role: "Full-Stack Developer @ ShopCircle",
-  experience: "3+ years",
-  focus: ["Web Apps", "Mobile Apps", "System Architecture"]
-};
-```
-
----
-
-### 🛠 Tech Stack
-
-<div align="center">
+## 🛠️ Tech Stack
 
 **Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+**Database**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,redux&theme=dark&perline=5" />
 
-**Backend & Database**
+## 💼 What I Do
+
+```
+🌐 Web Development      →  Full-stack apps with React, Next.js & Node.js
+📱 Mobile Development   →  Cross-platform apps with React Native & Expo
+🏗️ Architecture         →  Scalable systems, database design & payment integrations
+🛒 E-commerce           →  Shopify apps, Stripe & PayPal integrations
+```
+
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,prisma,postgresql,mongodb,redis&theme=dark&perline=7" />
 
-**Mobile & DevOps**
+## 📊 Quick Stats
+
+- 🏢 **Current Role:** Full-Stack Developer @ ShopCircle
+- 🎓 **Education:** BSc Computer Science
+- 📍 **Location:** Sarajevo, Bosnia & Herzegovina
+- 💼 **Experience:** 3+ years
+
 <br/>
-<img src="https://skillicons.dev/icons?i=react,expo,docker,aws,git&theme=dark&perline=5" />
-
-</div>
-
----
-
-### 📊 Stats
 
 <div align="center">
 
-<a href="https://github.com/tarikvelic">
-  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tarikvelic&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&rank_icon=github"/>
-  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tarikvelic&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&langs_count=6"/>
-</a>
+---
+
+**Let's build something great together!**
+
+📧 **tarikvelic23@gmail.com**
 
 <br/>
 
-<img width="400" src="https://streak-stats.demolab.com?user=tarikvelic&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&date_format=j%20M%5B%20Y%5D"/>
-
-</div>
-
----
-
-### 🚀 What I Do
-
-| Web Development | Mobile Development | Architecture |
-|:---------------:|:------------------:|:------------:|
-| React & Next.js | React Native & Expo | Scalable Systems |
-| GraphQL & REST APIs | iOS & Android | Database Design |
-| Shopify Apps | In-App Purchases | Stripe & PayPal |
-
----
-
-<div align="center">
-
-**📍 Sarajevo, Bosnia & Herzegovina** • **📧 tarikvelic23@gmail.com**
-
-<img src="https://komarev.com/ghpvc/?username=tarikvelic&color=6366F1&style=flat-square&label=Views"/>
+<img src="https://komarev.com/ghpvc/?username=tarikvelic&color=6366F1&style=flat-square&label=Profile+Views"/>
 
 </div>
 
